@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 1.1번 과제입니다.
 2.2번 과제입니다.
 3.3번 과제입니다.
 4.main q브랜치 작업중.
 adaddaadsasdㅈㄱ
+=======
+1asdsadsasdd
+asdasdasda
+>>>>>>> HJW
